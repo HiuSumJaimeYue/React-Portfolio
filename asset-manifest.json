@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.efd480cd.css",
+    "main.js": "/React-Portfolio/static/js/main.d28376da.js",
+    "static/js/787.a2cb61a6.chunk.js": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/weatherDashboardPreview.jpg": "/React-Portfolio/static/media/weatherDashboardPreview.9e9f3b72f63890dd5a22.jpg",
+    "static/media/HiuSumJaime_Yue_Resume.pdf": "/React-Portfolio/static/media/HiuSumJaime_Yue_Resume.18472697220cf03ce533.pdf",
+    "static/media/workDaySchedulerPreview.jpg": "/React-Portfolio/static/media/workDaySchedulerPreview.498230b4421df75e34ac.jpg",
+    "static/media/TechBlogPreview.jpg": "/React-Portfolio/static/media/TechBlogPreview.3dcf39a3cfd129cc9e25.jpg",
+    "static/media/liveMusicFinderPreview.jpg": "/React-Portfolio/static/media/liveMusicFinderPreview.34de742fdd1837a39872.jpg",
+    "static/media/MyPic.jpg": "/React-Portfolio/static/media/MyPic.cf6354d598c2759c4e7b.jpg",
+    "static/media/MoviesReviewPreview.jpg": "/React-Portfolio/static/media/MoviesReviewPreview.541b9749ea5ce3d7e45f.jpg",
+    "static/media/noteTakerPreview.jpg": "/React-Portfolio/static/media/noteTakerPreview.b59d1a01e6805926c804.jpg",
+    "index.html": "/React-Portfolio/index.html",
+    "main.efd480cd.css.map": "/React-Portfolio/static/css/main.efd480cd.css.map",
+    "main.d28376da.js.map": "/React-Portfolio/static/js/main.d28376da.js.map",
+    "787.a2cb61a6.chunk.js.map": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efd480cd.css",
+    "static/js/main.d28376da.js"
+  ]
+}
